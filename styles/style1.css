@@ -1,0 +1,151 @@
+img 
+{
+	height:150px;
+	width:150px;
+	
+	
+}
+
+
+.aboutus{
+	 border-style:solid;
+	 background-color:#F3E5F5;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+}
+
+	
+#top{
+	 background-color:#DEB6EF;
+	 font-size:21px;
+	 
+	 font-family:Fantasy;
+	 
+}
+
+a{
+	 color:white;
+	 text-decoration:none;
+}
+
+
+#oproducts{
+	 text-align:center;
+	 
+	 
+}	
+
+select{
+         font-size:20px;
+		 font-family:Monospace;
+		 font-weight:bold;
+}
+
+input{
+     border-radius:25px;
+	 font-size:20px;
+	 width:30%;
+	 padding:15px;
+	 background-color:#EBF2EA;
+	 border:none;
+
+}
+
+form{
+	text-align:center;
+	font-size:20px;
+}
+
+button{
+	 
+	 font-size:25px;
+	 width:30%;
+	 background-color:#DEB6EF;
+	 border-radius:25px;
+	 color:white;
+	 border:none;
+}
+
+#com{
+	 width:30%;
+	 margin:auto;
+	 text-align:justify;
+}
+
+#ihave{
+	 width:30%;
+	 margin:auto;
+	 text-align:justify;
+}
+
+
+.health{
+	 border-style:solid;
+	 background-color:#EBF2EA;
+	 border-radius:25px;
+	 margin:10px;
+}
+
+.motor{
+	 border-style:solid;
+	 background-color:#F3E5F5;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+}
+
+.retire{
+	
+	 border-style:solid;
+	 background-color:#EFFCFF;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+}
+
+.life{
+	 border-style:solid;
+	 background-color:#FEF2EE;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+}
+
+
+
+.number{
+	 text-align:center;
+	 border-style:solid;
+	 background-color:#EBF2EA;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+	
+	 
+}
+
+.email{
+	 text-align:center;
+	 border-style:solid;
+	 background-color:#EBF2EA;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+	 
+}
+
+.address{
+	 text-align:center;
+	 border-style:solid;
+	 background-color:#EBF2EA;
+	 border-radius:25px;
+	 margin:10px;
+	 padding:10px;
+}
+
+
+
+	 
+	 
+	 
